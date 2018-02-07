@@ -16,6 +16,8 @@ public class Test {
      */
     public static void main(String[] args) {
         gajajajajajajajajajajajja
+        System.out.println("Test");
+        totally works bro
     }
     
 }
