@@ -18,6 +18,13 @@ public class Test {
         gajajajajajajajajajajajja
         System.out.println("Test");
         totally works bro
+                taretadfsafdsa
+                sfda
+                        f
+                        sda
+                                fsa
+                                f
+                                        sda
     }
     
 }
